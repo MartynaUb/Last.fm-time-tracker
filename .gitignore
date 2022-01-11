@@ -1,0 +1,7 @@
+.idea
+last-fm-time-tracker-front/node_modules/
+last-fm-time-tracker-front/package-lock.json
+last-fm-time-tracker-front/.idea
+last-fm-time-tracker-front/build
+last-fm-time-tracker-back/target/
+last-fm-time-tracker-back/last-fm-time-tracker.iml
